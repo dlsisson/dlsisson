@@ -48,14 +48,9 @@ Some quick facts:
 - 
 ---
 
-## 📊 GitHub Stats Widget
+## 📊 A bit about my Github:
 
-
-![Dakota's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlsisson&show_icons=true&theme=default)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=dlsisson)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dlsisson&layout=compact)
-
+![Metrics](https://metrics.lecoq.io/dlsisson)
 
 > This widget shows things like your commits, repositories, and other stats — perfect for the assignment requirement.
 
@@ -74,7 +69,6 @@ Some quick facts:
 
 If you'd like to connect, collaborate, or just talk tech:
 
-- 📧 Email: YOUR.EMAIL@EXAMPLE.COM  
-- 🔗 Or send me a message on [LinkedIn](https://www.linkedin.com/in/dakota-sisson/)
+- 🔗 Send me a message on [LinkedIn](https://www.linkedin.com/in/dakota-sisson/)
 
 Thanks for stopping by! 👋
