@@ -52,8 +52,6 @@ Some quick facts:
 
 ![Metrics](https://metrics.lecoq.io/dlsisson)
 
-> This widget shows things like your commits, repositories, and other stats — perfect for the assignment requirement.
-
 ---
 
 ## 🎯 Current Focus
