@@ -1,5 +1,5 @@
 # Hi, I'm Dakota 👋
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&color=6ca0ff&center=true&vCenter=true&width=700&lines=Dakota+Sisson+%7C+Web+Development;Enterprise+Networking;Keeping+the+world+connected!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&color=6ca0ff&width=700&lines=Dakota+Sisson+%7C+Web+Development;Enterprise+Networking;Keeping+the+world+connected!)
 
 ![Dakota's banner](./images/ccna_med.jpg) ![Dakota's banner](./images/ccst_cybersecurity_med.jpg)
 
