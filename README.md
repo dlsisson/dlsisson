@@ -1,5 +1,5 @@
 # Hi, I'm Dakota 👋
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&color=6ca0ff&center=true&vCenter=true&width=700&lines=Dakota+Sisson+%7C+Web+Development+%7C;CCNA+%7C+Server+Technician;Always+Learning+Something+New)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&color=6ca0ff&center=true&vCenter=true&width=700&lines=Dakota+Sisson+%7C+Web+Development+%7Enterprise+Networking+%7C+Server+Technician;Keeping+the+world+connected!)
 
 ![Dakota's banner](./images/profile-banner.png)
 
