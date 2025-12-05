@@ -19,10 +19,6 @@ Some quick facts:
 
 ---
 
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
----
-
 ## 🧰 Tech Stack & Skills
 
 ### Languages & Web
