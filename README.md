@@ -27,13 +27,6 @@ Some quick facts:
 - **Backend / Data:** SQL, basic REST APIs, JSON, AJAX
 - **Other:** Basic Python, Cisco command line tools
 
-### Tools & Platforms
-
-- **Version Control:** Git & GitHub
-- **Databases:** SQL Server, ERD design, queries (JOINs, subqueries, etc.)
-- **Creative / Media:** Adobe Illustrator, Photoshop, After Effects (motion graphics & UI animations)
-- **Systems / IT:** Basic networking, server hardware, troubleshooting
-
 ---
 
 ## 🚀 What I Like Working On
