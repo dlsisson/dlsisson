@@ -11,7 +11,7 @@ By day, I work as a **Server Repair Technician**, and at night I'm either progra
 
 Some quick facts:
 
-- 🗺️ Current Job: **Network Technician** I work with Safari Solutions Inc. setting up, testing, and monitoring networks for some of the biggest sporting events in the world!
+- 🗺️ Current Job: **Network Technician** at Safari Solutions Inc. setting up, testing, and monitoring networks for some of the biggest sporting events in the world!
 - 🎓 Studying **full-stack web development** (JavaScript, HTML, CSS, SQL, jQuery, APIs, etc.)
 - 💻 Background in **IT and networking** — including hands-on work with servers and infrastructure
 - 📡 Earned my **CCNA** and **CCST Cybersecurity**
