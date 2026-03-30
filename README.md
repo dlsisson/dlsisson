@@ -1,135 +1,72 @@
-# Hi, I'm Dakota 👋
+# Dakota Sisson
+
+**Network Technician | CCNA | Full-Stack Web Development Student**
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF6A00&width=900&lines=Dakota+Sisson+%7C+Networking+%26+Web+Development;CCNA+Certified+%7C+Full-Stack+Student;Building+tools+that+keep+people+connected" alt="Typing SVG" />
-</p>
-
-<p align="left">
-  <img src="./images/ccna_med.jpg" alt="CCNA badge" width="260" />
-  <img src="./images/ccst_cybersecurity_med.jpg" alt="CCST Cybersecurity badge" width="260" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF6A00&width=700&lines=Networking+%7C+Web+Development;Building+tools+that+keep+systems+running;IT+infrastructure+%26+practical+web+apps" alt="Typing SVG" />
 </p>
 
 ---
 
-## <span style="color:#FF6A00;">👨‍💻 About Me</span>
+## About
 
-I'm a **Network Technician** with hands-on experience deploying and supporting real-world infrastructure for large live events, while finishing my **B.S. in Full-Stack Web Development** at **Arizona State University**.
+I work hands-on with network infrastructure for large-scale live events while finishing my degree in **Full-Stack Web Development at Arizona State University**.
 
-I enjoy building reliable networks, solving technical problems, and creating web tools that make work easier.
-
-- 🛰️ **Current Role:** Network Technician at **Safari Solutions Inc.**
-- 🎓 **Education:** B.S. in **Full-Stack Web Development** at **Arizona State University**
-- 📡 **Certifications:** **CCNA** and **CCST Cybersecurity**
-- 🌐 **Experience:** Member of the **Cisco Live Dream Team**
-- 🐧 **Current Goal:** Preparing for **CompTIA Linux+**
+I enjoy building reliable networks and creating simple tools that make systems easier to manage.
 
 ---
 
-## <span style="color:#FF6A00;">💡 What I Bring</span>
+## Experience
 
-- Real-world networking experience in fast-paced environments
-- Strong troubleshooting mindset from hands-on technical work
-- A mix of **networking**, **IT**, and **web development** skills
-- A focus on building practical tools that improve workflows
+**Network Technician — Safari Solutions Inc.**  
+Deploying, configuring, and troubleshooting routers, switches, and access points for live event environments.
 
----
-
-## <span style="color:#FF6A00;">🧰 Technical Skills</span>
-
-### Networking
-- Cisco CLI
-- Routing & Switching
-- VLANs
-- DHCP
-- ACLs
-- Network Troubleshooting
-- Packet Tracer
-
-### Web Development
-- HTML5
-- CSS3
-- JavaScript
-- jQuery
-- Bootstrap
-
-### Backend / Data
-- SQL
-- REST APIs
-- JSON
-- AJAX
-
-### Tools / Systems
-- GitHub
-- Linux *(learning)*
-- Windows environments
-- Basic Python
+**Cisco Live Dream Team**  
+Supported enterprise-scale network infrastructure alongside Cisco engineers.
 
 ---
 
-## <span style="color:#FF6A00;">🚀 Featured Projects</span>
+## Skills
 
-### 📡 Network Monitoring Dashboard *(In Progress)*
-A web-based dashboard concept for visualizing network health, device status, and infrastructure data.
+**Networking**  
+Cisco CLI, VLANs, Routing & Switching, DHCP, ACLs, Troubleshooting
 
-**Built with:** JavaScript, APIs, dynamic UI concepts
+**Web Development**  
+HTML, CSS, JavaScript, jQuery, Bootstrap
 
----
-
-### 🛒 Multi-Step Checkout System
-A responsive checkout flow with separate billing, shipping, and payment steps using Bootstrap and JavaScript.
-
-**Built with:** HTML, CSS, Bootstrap, JavaScript
+**Other**  
+SQL, REST APIs, GitHub, Linux (in progress)
 
 ---
 
-### 📊 Packet Tracer Labs
-Ongoing network labs focused on routing, switching, troubleshooting, and real-world scenario practice.
+## Projects
 
-**Focus areas:** VLANs, static routing, ACLs, network design
+**Network Monitoring Dashboard**  
+Web-based tool to visualize network status and device health.
 
----
-
-## <span style="color:#FF6A00;">🔥 What I Like Working On</span>
-
-- Building and troubleshooting networks
-- Creating web apps for real-world use
-- Designing clean, responsive interfaces
-- Combining infrastructure and development skills
+**Multi-Step Checkout System**  
+Responsive checkout flow built with Bootstrap and JavaScript.
 
 ---
 
-## <span style="color:#FF6A00;">📊 GitHub Activity</span>
+## Current Focus
+
+- Finishing my degree
+- Strengthening networking and JavaScript
+- Building practical tools for IT workflows
+- Preparing for Linux+
+
+---
+
+## GitHub Stats
 
 <p align="left">
-  <img src="https://metrics.lecoq.io/dlsisson" alt="GitHub Metrics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dlsisson&show_icons=true&theme=graywhite&title_color=FF6A00&icon_color=FF6A00&text_color=808080&border_color=404040&bg_color=00000000" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlsisson&layout=compact&theme=graywhite&title_color=FF6A00&text_color=808080&border_color=404040&bg_color=00000000" />
 </p>
 
 ---
 
-## <span style="color:#FF6A00;">🎯 Current Focus</span>
+## Contact
 
-- Finishing my **B.S. in Full-Stack Web Development**
-- Strengthening my **JavaScript**, **SQL**, and **networking** skills
-- Building a portfolio of practical **IT and web-based tools**
-- Preparing for **Linux+**
-
----
-
-## <span style="color:#FF6A00;">📬 Connect With Me</span>
-
-- [LinkedIn](https://www.linkedin.com/in/dakota-sisson/)
-
----
-
-## <span style="color:#FF6A00;">⚡ Aesthetic Notes</span>
-
-This README is designed around a **neon orange + gray** vibe.  
-For even more style, you can also add custom badges from Shields.io later using orange/gray hex colors like:
-
-- `FF6A00` for neon orange
-- `4B5563` for gray
-- `111827` for dark background tone
-
----
-
-Thanks for stopping by.
+[LinkedIn](https://www.linkedin.com/in/dakota-sisson/)
