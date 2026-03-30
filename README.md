@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CCNA-Certified-FF6A00?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CCST-Cybersecurity-FF6A00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux+-In%20Progress-4B5563?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CCNA-Certified-FF6A00?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/CCST-Cybersecurity-FF6A00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux+-In%20Progress-4B5563?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 ---
