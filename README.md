@@ -84,10 +84,10 @@ A responsive **e-commerce checkout experience**.
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=dlsisson&show_icons=true&theme=transparent&title_color=FF6A00&icon_color=FF6A00&text_color=9CA3AF&border_color=303030" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlsisson&layout=compact&theme=transparent&title_color=FF6A00&text_color=9CA3AF&border_color=303030" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dlsisson&theme=dark&ring=FF6A00&fire=FF6A00&currStreakLabel=FF6A00&sideLabels=9CA3AF&currStreakNum=FFFFFF&sideNums=9CA3AF&dates=6B7280&background=00000000&border=303030" />
