@@ -64,7 +64,7 @@ A single-page financial platform designed for college students.
 - JavaScript + API integration  
 - Local storage for persistent state  
 
-👉 Add repo link here
+[👉 Repo Link:] (https://github.com/dlsisson/GIT-418--Final-Project--Sun-Devil-Finance)
 
 ---
 
@@ -75,13 +75,13 @@ A responsive e-commerce checkout experience.
 - Dynamic UI and conditional rendering  
 - Built with Bootstrap + JavaScript  
 
-👉 Add repo link here
+[👉 Repo Link:] (https://github.com/navarrocode/OperationBaseCamp)
 
 ---
 
 ## 🌐 Website
 
-Add your site here:  
+Website In Development:  
 https://yourwebsite.com
 
 ---
@@ -96,11 +96,6 @@ https://yourwebsite.com
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dlsisson&show_icons=true&theme=transparent&title_color=FF6A00&icon_color=FF6A00&text_color=9CA3AF&border_color=303030" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlsisson&layout=compact&theme=transparent&title_color=FF6A00&text_color=9CA3AF&border_color=303030" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=dlsisson&theme=dark&ring=FF6A00&fire=FF6A00&currStreakLabel=FF6A00&sideLabels=9CA3AF&currStreakNum=FFFFFF&sideNums=9CA3AF&dates=6B7280&background=00000000&border=303030" />
 </p>
 
@@ -113,7 +108,6 @@ https://yourwebsite.com
 - Strengthening JavaScript and API usage  
 - Preparing for CompTIA Linux+  
 
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=FF6A00"/>
