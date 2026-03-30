@@ -114,7 +114,6 @@ A responsive **e-commerce checkout experience**.
 
 ---
 
-## ⚡ Philosophy
-
-> Build systems that work under pressure.  
-> Keep them simple. Make them reliable.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=900&color=FF6A00&width=900&lines=Thanks+for+stopping+by+!" />
+</p>
