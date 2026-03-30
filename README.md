@@ -1,72 +1,53 @@
 # Dakota Sisson
 
-**Network Technician | CCNA | Full-Stack Web Development Student**
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF6A00&width=700&lines=Networking+%7C+Web+Development;Building+tools+that+keep+systems+running;IT+infrastructure+%26+practical+web+apps" alt="Typing SVG" />
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF6A00&width=700&lines=Network+Technician;CCNA+Certified;Full-Stack+Web+Development;Building+tools+that+keep+systems+running" />
 </p>
 
 ---
 
-## About
-
-I work hands-on with network infrastructure for large-scale live events while finishing my degree in **Full-Stack Web Development at Arizona State University**.
-
-I enjoy building reliable networks and creating simple tools that make systems easier to manage.
+**Network Technician @ Safari Solutions**  
+CCNA • Full-Stack Web Dev @ ASU  
 
 ---
 
-## Experience
+## Work
 
-**Network Technician — Safari Solutions Inc.**  
-Deploying, configuring, and troubleshooting routers, switches, and access points for live event environments.
-
-**Cisco Live Dream Team**  
-Supported enterprise-scale network infrastructure alongside Cisco engineers.
+Deploying and supporting network infrastructure for large-scale live events.  
+Experience with routers, switches, access points, and real-time troubleshooting.
 
 ---
 
 ## Skills
 
 **Networking**  
-Cisco CLI, VLANs, Routing & Switching, DHCP, ACLs, Troubleshooting
+Cisco CLI • VLANs • Routing & Switching • DHCP • ACLs  
 
-**Web Development**  
-HTML, CSS, JavaScript, jQuery, Bootstrap
+**Web**  
+HTML • CSS • JavaScript • jQuery • Bootstrap  
 
 **Other**  
-SQL, REST APIs, GitHub, Linux (in progress)
+SQL • APIs • GitHub • Linux (in progress)
 
 ---
 
 ## Projects
 
-**Network Monitoring Dashboard**  
-Web-based tool to visualize network status and device health.
+**Network Dashboard**  
+Simple web-based tool to visualize device status  
 
-**Multi-Step Checkout System**  
-Responsive checkout flow built with Bootstrap and JavaScript.
-
----
-
-## Current Focus
-
-- Finishing my degree
-- Strengthening networking and JavaScript
-- Building practical tools for IT workflows
-- Preparing for Linux+
+**Checkout System**  
+Multi-step responsive checkout flow  
 
 ---
 
-## GitHub Stats
+## Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dlsisson&show_icons=true&theme=graywhite&title_color=FF6A00&icon_color=FF6A00&text_color=808080&border_color=404040&bg_color=00000000" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlsisson&layout=compact&theme=graywhite&title_color=FF6A00&text_color=808080&border_color=404040&bg_color=00000000" />
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dlsisson&show_icons=true&theme=transparent&title_color=FF6A00&icon_color=FF6A00&text_color=808080&border_color=303030" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlsisson&layout=compact&theme=transparent&title_color=FF6A00&text_color=808080&border_color=303030" />
 </p>
 
 ---
-
-## Contact
 
 [LinkedIn](https://www.linkedin.com/in/dakota-sisson/)
